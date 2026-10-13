@@ -470,11 +470,6 @@ python evaluate_drone.py --checkpoint results/checkpoints_drone/best.pt
 
 ---
 
-## 📄 License
-
-**CC BY-NC 4.0** — free for research, education, and personal use.
-**Commercial use is not permitted** without prior written permission from Eric Yaka.
-See the `LICENSE` file in this repository for the full legal text.
 
 ---
 
